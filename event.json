@@ -1,0 +1,4 @@
+{
+    "bucket_name": "panaah",
+    "file_key": "s3://panaah/data.json"
+}
